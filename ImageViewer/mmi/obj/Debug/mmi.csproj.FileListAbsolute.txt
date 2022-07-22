@@ -1,0 +1,10 @@
+G:\c#\New folder\mmi\mmi\bin\Debug\mmi.exe.config
+G:\c#\New folder\mmi\mmi\bin\Debug\mmi.exe
+G:\c#\New folder\mmi\mmi\bin\Debug\mmi.pdb
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.csprojAssemblyReference.cache
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.Properties.Resources.resources
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.csproj.GenerateResource.cache
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.csproj.CoreCompileInputs.cache
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.exe
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.pdb
+G:\c#\New folder\mmi\mmi\obj\Debug\mmi.frm_main.resources
